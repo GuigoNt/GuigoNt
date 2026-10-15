@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Gui 👋
 
-<!--
-**GuigoNt/GuigoNt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante da PUC Campinas, apaixonado por transformar problemas reais em software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel/VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- **[Nome do projeto](link)**: uma linha explicando o que resolve.
+- **[Nome do projeto](link)**: idem.
+
+## 📫 Contato
+[LinkedIn](link) | [E-mail](mailto:seu@email.com)

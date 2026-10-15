@@ -9,8 +9,7 @@ Estudante da PUC Campinas, apaixonado por transformar problemas reais em softwar
 ![Excel/VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## 🚀 Projetos em destaque
-- **[Nome do projeto](link)**: uma linha explicando o que resolve.
-- **[Nome do projeto](link)**: idem.
+- **[BrainDesk](https://github.com/GuigoNt/BrainDesk)**: O BrainDesk é um assistente de estudos com IA que permite salvar conteúdos, gerar resumos, questões e flashcards automaticamente, além de possuir sistema de atualização automática via GitHub.
 
 ## 📫 Contato
-[LinkedIn](link) | [E-mail](mailto:seu@email.com)
+[LinkedIn](www.linkedin.com/in/guillermo-neto) | [E-mail](sevijjaneto@gmail.com)

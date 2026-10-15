@@ -12,4 +12,4 @@ Estudante da PUC Campinas, apaixonado por transformar problemas reais em softwar
 - **[BrainDesk](https://github.com/GuigoNt/BrainDesk)**: O BrainDesk é um assistente de estudos com IA que permite salvar conteúdos, gerar resumos, questões e flashcards automaticamente, além de possuir sistema de atualização automática via GitHub.
 
 ## 📫 Contato
-[LinkedIn](www.linkedin.com/in/guillermo-neto) | [E-mail](sevijjaneto@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/guillermo-neto) | [E-mail](mailto:sevijjaneto@gmail.com)
